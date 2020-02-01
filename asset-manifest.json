@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.a1a6e083.chunk.css",
+  "main.js": "/static/js/main.7489422b.chunk.js",
+  "main.js.map": "/static/js/main.7489422b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.1b922744.js",
+  "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
+  "static/css/2.9b5173ac.chunk.css": "/static/css/2.9b5173ac.chunk.css",
+  "static/js/2.4efd4d3e.chunk.js": "/static/js/2.4efd4d3e.chunk.js",
+  "static/js/2.4efd4d3e.chunk.js.map": "/static/js/2.4efd4d3e.chunk.js.map",
+  "index.html": "/index.html",
+  "popup.html": "/popup.html",
+  "precache-manifest.2311608488b60f7b8c1248fec34c3857.js": "/precache-manifest.2311608488b60f7b8c1248fec34c3857.js",
+  "service-worker.js": "/service-worker.js",
+  "solid-auth-client.bundle.js": "/solid-auth-client.bundle.js",
+  "solid-auth-client.bundle.js.map": "/solid-auth-client.bundle.js.map",
+  "solid-query-ldflex.bundle.js": "/solid-query-ldflex.bundle.js",
+  "solid-query-ldflex.bundle.js.map": "/solid-query-ldflex.bundle.js.map",
+  "static/css/2.9b5173ac.chunk.css.map": "/static/css/2.9b5173ac.chunk.css.map",
+  "static/css/main.a1a6e083.chunk.css.map": "/static/css/main.a1a6e083.chunk.css.map",
+  "static/media/flag-icon.min.css": "/static/media/zw.8b885465.svg"
+}
